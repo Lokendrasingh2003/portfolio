@@ -50,8 +50,8 @@ function Contact(props) {
               <SocialMedia />
               <br />
               <br />
-              <a {...styles} className="general-btn" href={blogSection.link}>
-                  See My portfolio
+              <a {...styles} className="general-btn" href={'https://lokendrasingh2003.github.io/portfolio/'}>
+                  See My Porfolio
                 </a>
             </div>
           </div>
