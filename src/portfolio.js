@@ -448,7 +448,7 @@ const projects = {
     },
     {
       name: "Portfolio",
-      url: "",
+      url: "https://lokendrasingh2003.github.io/portfolio/",
       description: "(This) A clean and full customizable portfolio template.",
       languages: [
         {
