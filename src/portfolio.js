@@ -459,7 +459,7 @@ const projects = {
     },
     {
       name: "Carters",
-      url: "https://github.com/Lokendrasingh2003/Carters",
+      url: "https://66a67b7c7b4de55d174154dd--neon-pothos-aa11d6.netlify.app/",
       description: "It is a e-commerce shopping website for kids. It is a full responsive and full functionality website using Reactjs,Redux,Next.js and some other technologies.",
       languages: [
        
